@@ -10,3 +10,17 @@ O GolpeZero App é um projeto acadêmico desenvolvido na disciplina Introdução
 + Emissão de alertas em tempo real;
 + Recursos de acessibilidade para idosos;
 + Notificação de contatos de confiança.
+
+<legend align="left"><h3>📂 Estrutura </h3></legend>
+ 
+ 📦 GolpeZero-App
+ 
+├── 📁 Pseudocódigo
+
+├── 📁 backend
+
+├── 📄​ GolpeZero_AVFinal
+
+├── 📄​ links_figma
+
+└── README.md
